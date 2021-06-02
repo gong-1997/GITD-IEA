@@ -1,6 +1,6 @@
 # GITD-IEA
 GITD-IEA is used to solve the problem that text information is difficult to detect under different scales and complex backgrounds, so as to improve the accuracy of text detection.
-which is primarily based on
+which is primarily based on:
 
 * [EAST:An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155v2)
 * [An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://arxiv.org/pdf/1507.05717v1)
